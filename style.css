@@ -539,7 +539,23 @@ nav a hover, nav a.active {
 .price-card .btn:hover {
 	background-color: £b20710;
 }
-	
+.full-width-gallery {
+	width: 100%;
+	margin: 40px 0;
+	padding: 0;
+}
+.full-width-photo {
+	width: 100%;
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+.full-width-photo img {
+	width: 100vw;
+	max-width: 100%;
+	height: auto;
+	display: block;
+	object-fit: cover;
+}
 
 	
 	
