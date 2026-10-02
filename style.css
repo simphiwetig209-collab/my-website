@@ -588,6 +588,18 @@ nav a hover, nav a.active {
 	background-color: #e50914;
 	border-color: #e50914;
 }
-
+.about-section {
+	max-width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}.about-section p {
+	font-family: 'Playfair Display', Georgia, serif;
+	font-size: 1.1rem;
+	font-weight: 400;
+	color: #3d3d3d;
+	text-transform: uppercase;
+	line-height: 1.8;
+	margin-bottom: 35px;
+}
 	
 	
